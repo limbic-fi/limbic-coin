@@ -1,6 +1,7 @@
-# LimbicCoin (`LIMBIC`)
+# Limbic Coin (`LIMBIC`)
 
 - https://limbic.fi
+- limbic.ens
 - https://github.com/limbic-fi/limbic-coin
 
 LimbicCoin is:
