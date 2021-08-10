@@ -5,6 +5,6 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
 contract LimbicCoin is ERC20 {
     constructor() ERC20("LimbicCoin", "LIMBIC") {
-        _mint(msg.sender, 2100000000000000);
+        _mint(msg.sender, 21000000000000000000000000);
     }
 }
